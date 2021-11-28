@@ -18,4 +18,4 @@ Para execução da aplicação completa, no JOGO1 - PRINCIPAL, será necessário
 Conforme download realizado ou arquivo disponibilizado. Com o JOGO1.C aberto, vá na linha 33 (CASE 1) e altere o caminho do arquivo executavel onde localize-se o JOGO2, conforme o caminho em sua máquina local e compile novamente.
 
 O jogo2, pode ser utilizado separadamente também.
-Desta maneira, será possivel executar ambos os jogos em apenas um executavel, sendo necessário seguir o passo acima para configuração correta.
+Desta maneira descrito acima, será possivel executar ambos os jogos em apenas um executavel, sendo necessário seguir o passo acima para configuração correta.
